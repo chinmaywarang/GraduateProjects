@@ -23,6 +23,12 @@ The system performed on par with the engineer in terms of ratings and statical a
 results of the listening test, thus proving the efficacy of the system when compared to an
 engineer.
 
+JUCE Distortion Pedal AU Plugin (2021)
+
+Developed a Distortion Pedal Plugin using C++ which can be loaded into a DAW and used to generate artificial distortion in real-time. 
+The user can adjust the amount of distortion as well as the master volume.
+The files are in the SOURCE folder! 
+
 An Intelligent Dataset Augmentation System using Machine Learning to Encode Recording Error (2020)
 
 Developed a dataset expansion tool to introduce errors typically found in recordings on an existing dataset.
